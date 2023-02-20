@@ -11,5 +11,9 @@
 * 前端: HTML5、CSS、JavaScript、bootstrap
 * 後端: Java、Servlet、Hibernate
 * 資料庫: MySQL
+
 ### **功能介紹**
-* 
+* 點擊房型瀏覽房型詳情
+* 對優惠進行新刪修查
+* 對寵物房間進行新刪修查
+* 對寵物房型進行新刪修查
