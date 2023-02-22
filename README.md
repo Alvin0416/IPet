@@ -1,6 +1,6 @@
 # IPet寵物旅館
 
-<div>🎥 <a href="[https://drive.google.com/drive/folders/1YN4rKObyrXbovw1boQDXI3kGMSF6r3te](https://www.youtube.com/watch?v=thPViGFy5DU&t=1801s)">影片介紹</a> 📜 <a href="https://drive.google.com/drive/folders/1YN4rKObyrXbovw1boQDXI3kGMSF6r3te">文件介紹</a></div>
+<div>🎥 <a href="https://www.youtube.com/watch?v=thPViGFy5DU&t=1801s">影片介紹</a> 📜 <a href="https://drive.google.com/drive/folders/1YN4rKObyrXbovw1boQDXI3kGMSF6r3te">文件介紹</a></div>
 
 ### **負責功能**
 * 寵物房型瀏覽
